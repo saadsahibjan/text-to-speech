@@ -6,6 +6,11 @@ This is a simple project which can be used to read values in a table of .docx fi
      -python-docx 0.8.6
      -pyttsx 1.1
 
+### Install all Dependencies
+```sh
+$ pip install -r requirements.txt
+```
+
 ### Requirements
 * To run the application have a word document file which is .docx formatted in the same location of main.py
 * The word document file should contain a table and values in it.
